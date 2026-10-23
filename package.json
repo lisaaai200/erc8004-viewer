@@ -1,0 +1,9 @@
+{
+  "name": "erc8004-viewer",
+  "version": "0.1.0",
+  "description": "Static page: an agent's ERC-8004 identity and reputation on Base and Base Sepolia.",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test test/" }
+}
